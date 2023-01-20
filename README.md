@@ -6,5 +6,4 @@
 ![05-countdown](https://user-images.githubusercontent.com/94622046/213646173-13dd94e9-4d6a-4636-a625-f9bd76d12586.gif)
 ![06-Calculadora](https://user-images.githubusercontent.com/94622046/213646176-1cfcb824-46a5-4f1b-a305-973624b73840.gif)
 ![07-todo-List](https://user-images.githubusercontent.com/94622046/213646180-bb0cca9e-bf6b-431d-a530-9bb11a8ad43a.gif)
-![08-crud](https://user-images.githubusercontent.com/94622046/213646184-68deb7b4-c21e-4d0f-983e-98ade616288e.gif)
-# Teclado
+
